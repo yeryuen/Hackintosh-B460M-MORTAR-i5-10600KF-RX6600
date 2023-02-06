@@ -1,3 +1,4 @@
+OpenCore Version: 0.8.8
 ## 微星B460M迫击炮黑苹果EFI MSI-B460M-MORTAR+i5-10600KF-RX6600
 
 ### 硬件配置
