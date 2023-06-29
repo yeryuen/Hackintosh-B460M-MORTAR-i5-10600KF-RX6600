@@ -1,4 +1,4 @@
-# Hackintosh-B460M-MORTAR-i5-10600KF-RX6600
+
 ## 微星B460M迫击炮 MSI-B460M-MORTAR+i5-10600KF-RX6600
 
 ### 硬件配置无Wi-Fi 蓝牙
